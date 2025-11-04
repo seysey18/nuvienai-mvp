@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+   import './styles.css';
 import { Heart, Activity, Droplet, Moon, TrendingUp, AlertCircle, Users, Clock, CheckCircle, Bell, Sparkles, Send, Download, MessageCircle } from 'lucide-react';
 import { LineChart, Line, AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
